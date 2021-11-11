@@ -1,2 +1,2 @@
-# Prtal-Iframe
+# Portal-Iframe
 Code for iframe responsive mobile
